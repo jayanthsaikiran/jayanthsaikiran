@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+# ⚡ About Me:
+🔭 I’m currently working on Data Structures and React JS projects<br>👯 I’m looking for 2023 summer internships <br>🤝 I’m willing to contribute to Open Source projects <br>💬 Ask me about **React JS**<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
@@ -10,8 +10,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jayanthsaikiran&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jayanthsaikiran&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jayanthsaikiran&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=jayanthsaikiran&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
