@@ -1,5 +1,5 @@
 # ⚡ About Me:
-🔭 I’m currently working on Data Structures and React JS projects<br>👯 I’m looking for 2023 summer internships <br>🤝 I’m willing to contribute to Open Source projects <br>💬 Ask me about **React JS**<br>⚡ Fun fact
+🔭 I’m currently working on Data Structures and React JS projects<br>👯 I’m looking for 2024 full time opportunities <br>🤝 I’m willing to contribute to Open Source projects <br>💬 Ask me about **React JS**<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
